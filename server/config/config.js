@@ -69,11 +69,11 @@ exports.emailOptions = {
   //如果端口为465, 此项需要设置true, 其他端口需要修改为false
   secure: true,
 
-  //用户名，发件地址
-  user: '1161437421@qq.com',
+  //用户名，发件地址（邮箱地址）
+  user: '',
 
-  //授权码
-  pass: 'rkauiwpzloasjgbb',
+  //邮箱授权码
+  pass: '',
 
   //验证码有效时间, 单位：毫秒
   expires: 5 * 60 * 1000
