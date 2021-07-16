@@ -11,4 +11,4 @@ NodeJs + Express + Mysql  搭建的简单后端
 
 
 ## 
-  chrome80版本更新强制https才能跨域携带cookie，解决方法代理或其他；
+  token 唯一验证手段
